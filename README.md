@@ -1,4 +1,4 @@
-# -Exercicio7-UFRN_ITP
+# Exercicio7-UFRN_ITP
 
 <p>Uma das franquias fictícias de maior sucesso, especializada em sanduíches regionais, é o Bucho Burger. Porém, apesar de ser muito bom em fazer sanduíches, o seu dono não é tão apto a fazer contas de matemática, e frequentemente tem problemas para acertar o troco ou saber quando está faltando alguma coisa no pagamento.</p>
 <p>Para minimizar o prejuízo do estabelecimento e o descontentamento dos clientes quando recebem o troco errado, o Bucho Burger resolveu contratar você para fazer um programa simples de caixa. Você fará um programa que recebe o código do pedido e o valor em dinheiro pago pelo cliente, e informará se o valor está correto, se precisa de troco ou se está faltando dinheiro.</p>
